@@ -6,11 +6,12 @@
    <UUID>a4ccea82-6c80-4b57-be0a-239250a4255f</UUID>
    <createdEdition>ENTERPRISE</createdEdition>
    <createdVersion>10.4.3</createdVersion>
-   <freeLicense>false</freeLicense>
+   <freeLicense>true</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
    <modifiedEdition>ENTERPRISE</modifiedEdition>
    <modifiedVersion>10.4.3</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>C:\Users\Khoap\Katalon Studio\2201700189_Pham Minh Khoa_OrangeHRM_DDT\2201700189_Pham Minh Khoa_OrangeHRM_DDT.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
